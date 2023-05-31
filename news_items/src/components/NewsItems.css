@@ -1,0 +1,25 @@
+.NewsItems {
+    display: block;
+  }
+  
+  .NewsItem {
+    display: flex;
+    margin-bottom: 56px;
+  }
+
+  img {
+    margin-right: 20px;
+  }
+  
+  .date {
+    margin-bottom: 12px;
+    font-size: 16px;
+    line-height: 20px;
+  }
+
+  .title {
+    width: 580px;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+  }
